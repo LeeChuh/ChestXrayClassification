@@ -3,10 +3,9 @@
 ## Table of Contents
 1. [Overview](#overview)
 2. [Data](#data)
-5. [Model](#model)
-6. [Training](#training)
-7. [Results](#results)
-8. [License](#license)
+3. [Model](#model)
+4. [Training](#training)
+5. [Results](#results)
 
 ## Overview
 As we navigate through the unprecedented challenges posed by the COVID-19 pandemic, the importance of effective diagnostic tools cannot be overstated. Chest X-ray imaging has emerged as a crucial component in the identification and management of various lung diseases, including COVID-19 and other forms of pneumonia.
